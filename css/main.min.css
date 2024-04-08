@@ -36,12 +36,19 @@
     margin-top: 20px;
 }
 
-#header-section .message {
+#header-section .start-game {
     color: rgb(87, 75, 75);
     font-size: 18px;
     margin-top: 80px;
 }
 
+#header-section .message {
+    display: block;
+    color: rgb(41, 40, 40);
+    font-size: 18px;
+    margin-top: 80px;
+    text-align: center;
+}
 
 .button-container {
     text-align: center;
